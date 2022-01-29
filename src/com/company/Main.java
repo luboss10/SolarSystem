@@ -14,6 +14,10 @@ public class Main {
         sol.radius="111238900km";
         sol.temp="65000c";
 
+        planet2 venus= new planet2();
+        venus.color="grey";
+        venus.size="22222223km";
+
 
     }
 }
