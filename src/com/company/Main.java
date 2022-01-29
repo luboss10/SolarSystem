@@ -14,6 +14,11 @@ public class Main {
         sol.radius="111238900km";
         sol.temp="65000c";
 
+        //adding planet 1 features
+        panet1 mercury =new panet1();
+        mercury.color="green";
+        mercury.size="123444556678km";
+
 
     }
 }
