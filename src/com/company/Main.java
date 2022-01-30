@@ -24,6 +24,12 @@ public class Main {
         mercury.color="green";
         mercury.size="123444556678km";
 
+        //adding moon1 features
+        moon1 moon=new moon1();
+        moon.color="grey as hell";
+        moon.radius="22211km";
+        moon.lightItensity="122223lumins";
+
 
 
     }
