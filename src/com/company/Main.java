@@ -14,10 +14,16 @@ public class Main {
         sol.radius="111238900km";
         sol.temp="65000c";
 
+
+        planet2 venus= new planet2();
+        venus.color="grey";
+        venus.size="22222223km";
+
         //adding planet 1 features
         panet1 mercury =new panet1();
         mercury.color="green";
         mercury.size="123444556678km";
+
 
 
     }
