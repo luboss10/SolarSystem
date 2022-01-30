@@ -12,7 +12,7 @@ public class Main {
         SUN sol = new SUN();
         sol.heat="797908979kj";
         sol.radius="111238900km";
-        sol.temp="65000c";
+        sol.temp=65000;
 
 
         planet2 venus= new planet2();
