@@ -26,5 +26,21 @@ public class Main {
 
 
 
+
+
+
+
+
+        
+
+        //mooon2 features added
+        moon2 m2=new moon2();
+        m2.color="light gray";
+        m2.radius="1111123km";
+        m2.lightItensity="2222222lumins";
+
+
+
+
     }
 }
